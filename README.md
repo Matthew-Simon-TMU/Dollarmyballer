@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dollarmyballer
-- 👀 I’m a second year electrical engineering student
+- 👀 I’m an  electrical engineering student at TMU
 - 🌱 I currently know C, Java, and a bit of Python
 - 💞️ I’m looking to improve my python skills and pick up some front end stuff
 
